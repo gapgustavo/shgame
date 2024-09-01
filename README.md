@@ -1,4 +1,4 @@
-# Simple Shooter Game
+# Shooter Game
 
 ## Description
 A simple 2D shooter game implemented using Python and Pygame. The player controls a blue square and must shoot a red enemy while avoiding enemy bullets. The game features a main menu, player and enemy movement, shooting mechanics, and a life bar for both the player and the enemy.
